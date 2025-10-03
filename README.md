@@ -1,5 +1,3 @@
-# Практична №3 – Рекомендаційна система без surprise
-
 import pandas as pd
 import numpy as np
 
